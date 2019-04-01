@@ -1,0 +1,30 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "C:\\Users\\Jansen\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\**",
+                "C:\\Users\\Jansen\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.1\\**",
+                "C:\\Users\\Jansen\\AppData\\Local\\Arduino15\\packages\\esp8266\\tools\\**",
+                "C:\\Users\\Jansen\\AppData\\Local\\Arduino15\\packages\\esp8266\\hardware\\esp8266\\2.5.0-beta3\\**",
+                "${workspaceFolder}/**",
+                "C:\\\\Program Files (x86)\\\\Arduino\\\\libraries\\\\WiFi",
+                "D:\\\\User\\\\Documents\\\\Arduino\\\\libraries",
+                "D:\\\\User\\\\Projects\\\\Sen\\\\Project\\\\wireless-scoreboard\\\\ws-access_point\\\\libraries\\\\aREST",
+                "D:\\\\User\\\\Projects\\\\Sen\\\\Project\\\\wireless-scoreboard\\\\ws-access_point\\\\libraries\\\\ShiftRegister74HC595\\\\src"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.17763.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2017/Community/VC/Tools/MSVC/14.16.27023/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "forcedInclude": []
+        }
+    ],
+    "version": 4
+}
