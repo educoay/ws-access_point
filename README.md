@@ -47,3 +47,7 @@ Score arguments:
 - minus - Decrease score with \<value arg>
 
 Value arguments: \<Any Integer>
+
+# License
+
+All code and documentation are (c) 2019 Jansen Ducusin and released under the BSD 2-Clause License. A copy of the BSD 2-Clause License is also included.
